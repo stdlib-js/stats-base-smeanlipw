@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/stats-base-smeanlipw",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Calculate the arithmetic mean of a single-precision floating-point strided array using a one-pass trial mean algorithm with pairwise summation.",
   "license": "Apache-2.0",
   "author": {
