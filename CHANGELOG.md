@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-03-24)
+## Unreleased (2025-03-29)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`44ca2b2`](https://github.com/stdlib-js/stdlib/commit/44ca2b23d9db331afa5718b3f1d0401ede95c3b0) - **refactor:** update paths _(by Aayush Khanna)_
 -   [`d70f9bf`](https://github.com/stdlib-js/stdlib/commit/d70f9bffca3a02dd6e41d056d05c7e5bf0e87cda) - **refactor:** update paths _(by Aayush Khanna)_
 -   [`8948253`](https://github.com/stdlib-js/stdlib/commit/89482536c64814ff08216f1e8f8ee80ff13d574f) - **refactor:** update `stats/base/smeanlipw` native addon from C++ to C [(#4605)](https://github.com/stdlib-js/stdlib/pull/4605) _(by Vivek Maurya)_
 -   [`62364f6`](https://github.com/stdlib-js/stdlib/commit/62364f62ea823a3b52c2ad25660ecd80c71f8f36) - **style:** fix C comment alignment _(by Philipp Burckhardt)_
