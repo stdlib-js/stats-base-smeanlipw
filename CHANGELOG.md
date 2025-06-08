@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-04-26)
+## Unreleased (2025-06-08)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`bcd0411`](https://github.com/stdlib-js/stdlib/commit/bcd04112308e7d7b42de2bc04599d490e429ebc8) - **refactor:** update paths _(by Gururaj Gurram)_
 -   [`9f85b5d`](https://github.com/stdlib-js/stdlib/commit/9f85b5d90cb6fcaf052116cd06aa4a693757f0ec) - **test:** fix description _(by Philipp Burckhardt)_
 -   [`44ca2b2`](https://github.com/stdlib-js/stdlib/commit/44ca2b23d9db331afa5718b3f1d0401ede95c3b0) - **refactor:** update paths _(by Aayush Khanna)_
 -   [`d70f9bf`](https://github.com/stdlib-js/stdlib/commit/d70f9bffca3a02dd6e41d056d05c7e5bf0e87cda) - **refactor:** update paths _(by Aayush Khanna)_
@@ -31,10 +32,11 @@
 
 ### Contributors
 
-A total of 4 people contributed to this release. Thank you to the following contributors:
+A total of 5 people contributed to this release. Thank you to the following contributors:
 
 -   Aayush Khanna
 -   Athan Reines
+-   Gururaj Gurram
 -   Philipp Burckhardt
 -   Vivek Maurya
 
