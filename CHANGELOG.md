@@ -4,7 +4,17 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-06-08)
+## Unreleased (2025-06-29)
+
+<section class="features">
+
+### Features
+
+-   [`716275f`](https://github.com/stdlib-js/stdlib/commit/716275fdf515090bb85f78ca5099be9011abcb66) - add C ndarray interface and refactor implementation for `stats/base/smeanlipw` [(#7500)](https://github.com/stdlib-js/stdlib/pull/7500)
+
+</section>
+
+<!-- /.features -->
 
 <section class="commits">
 
@@ -12,6 +22,7 @@
 
 <details>
 
+-   [`716275f`](https://github.com/stdlib-js/stdlib/commit/716275fdf515090bb85f78ca5099be9011abcb66) - **feat:** add C ndarray interface and refactor implementation for `stats/base/smeanlipw` [(#7500)](https://github.com/stdlib-js/stdlib/pull/7500) _(by Gururaj Gurram, Athan Reines, stdlib-bot)_
 -   [`bcd0411`](https://github.com/stdlib-js/stdlib/commit/bcd04112308e7d7b42de2bc04599d490e429ebc8) - **refactor:** update paths _(by Gururaj Gurram)_
 -   [`9f85b5d`](https://github.com/stdlib-js/stdlib/commit/9f85b5d90cb6fcaf052116cd06aa4a693757f0ec) - **test:** fix description _(by Philipp Burckhardt)_
 -   [`44ca2b2`](https://github.com/stdlib-js/stdlib/commit/44ca2b23d9db331afa5718b3f1d0401ede95c3b0) - **refactor:** update paths _(by Aayush Khanna)_
